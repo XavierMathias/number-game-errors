@@ -1,0 +1,1 @@
+This program will help understand the different types of errors there are in the JavaScript
